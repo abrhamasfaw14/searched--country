@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abrhamasfaw14/searched--country.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/abrhamasfaw14/searched--country.git/static/js/main.c5942c6e.chunk.js",
+    "main.js.map": "/abrhamasfaw14/searched--country.git/static/js/main.c5942c6e.chunk.js.map",
+    "runtime-main.js": "/abrhamasfaw14/searched--country.git/static/js/runtime-main.cdd52a5f.js",
+    "runtime-main.js.map": "/abrhamasfaw14/searched--country.git/static/js/runtime-main.cdd52a5f.js.map",
+    "static/js/2.f70943ae.chunk.js": "/abrhamasfaw14/searched--country.git/static/js/2.f70943ae.chunk.js",
+    "static/js/2.f70943ae.chunk.js.map": "/abrhamasfaw14/searched--country.git/static/js/2.f70943ae.chunk.js.map",
+    "index.html": "/abrhamasfaw14/searched--country.git/index.html",
+    "precache-manifest.aba7a3b5bfb0a5186b1421cdd541b020.js": "/abrhamasfaw14/searched--country.git/precache-manifest.aba7a3b5bfb0a5186b1421cdd541b020.js",
+    "service-worker.js": "/abrhamasfaw14/searched--country.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/abrhamasfaw14/searched--country.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f70943ae.chunk.js.LICENSE.txt": "/abrhamasfaw14/searched--country.git/static/js/2.f70943ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd52a5f.js",
+    "static/js/2.f70943ae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c5942c6e.chunk.js"
+  ]
+}
